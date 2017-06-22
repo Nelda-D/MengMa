@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="G:\AndroidWorkSpace\MengMa\app\build\intermediates\incremental-runtime-classes\instant\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="G:\AndroidWorkSpace\MengMa\app\build\intermediates\transforms\dex\instant\debug\folders\1000\10000\instant-run_99a274d6c276bfc812057699b70572173b218143\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\e41e01b5696df4669848506a7e5cbb500595eb2e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cb86970df0f0f25f766d320b279c7858c1ca0003">
+        <dex dex="G:\AndroidWorkSpace\MengMa\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d4fc9431ab1f6eb51694f2c8cee34000fbdd1305\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\AndroidWorkSpace\MengMa\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="G:\AndroidWorkSpace\MengMa\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_fca91f070183e4e8b0440186e8bc66ad86455905\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="G:\AndroidWorkSpace\MengMa\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.2_2428dbd5eabf65ae69bc01abd6e4b72d08e545aa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\ASSDK\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0-beta3\constraint-layout-solver-1.0.0-beta3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="22c1e9d26251df254de7cc9dee01f5f134b10eba">
+        <dex dex="G:\AndroidWorkSpace\MengMa\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.0-beta3_c78166b3701899a23e7ea0f0e7cc9fb54c5704bd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\1f172d51c50a2cab6faa1fa55c299610b878b238\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b81d40d208a3308c8e81b2cccd3054238a13d140">
+        <dex dex="G:\AndroidWorkSpace\MengMa\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2d606fec6477fdd279888eedbe800f8a51065831\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\AndroidWorkSpace\MengMa\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dd7c65017e876c328dfeabba328668231bba122f">
+        <dex dex="G:\AndroidWorkSpace\MengMa\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_68eed7ebbe121c5805c212c050704e14e1d1826d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\ebc8fc83f8f12f40cd47b0eb0fe5b0f472ed6bd0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="937a257e174363e59e2459569b95a65d32a60d4f">
+        <dex dex="G:\AndroidWorkSpace\MengMa\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d6e1fb0348b2d317a0517db045c929c87a2e36d2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\AndroidWorkSpace\MengMa\app\build\intermediates\incremental-classes\instant\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e11fa7d895b4c0df31d35a15c8ac11c472cedc35">
+        <dex dex="G:\AndroidWorkSpace\MengMa\app\build\intermediates\transforms\dex\instant\debug\folders\1000\10000\instant-run-bootstrap_062cb80a4565c8b24ee03fd23cc4bc8d847216dc\classes.dex" />
+    </item>
+
+</items>
